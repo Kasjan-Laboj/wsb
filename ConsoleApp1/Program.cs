@@ -20,8 +20,6 @@
                 Console.WriteLine("nie ma takiego trojkata");
             }
             else Console.WriteLine(Heron(a, b, c));
-
-
         }
     }
 }
